@@ -2,11 +2,17 @@
   "name": "liver",
   "version": "1.0.0",
   "description": "Free Code Camp Test",
+  "keywords": ["struggle","suffer","help me", "freecodecamp"],
   "license": "ISC",
   "author": "Olivia",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+    	"test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "dependencies": {
+	"package-name": "@freecodecamp/example",
+	"express": "1.1.0"
+	}
 }
