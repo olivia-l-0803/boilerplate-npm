@@ -1,9 +1,9 @@
 {
   "name": "liver",
   "version": "1.0.0",
-  "description": "Free Code Camp",
+  "description": "Free Code Camp Test",
   "license": "ISC",
-  "author": "",
+  "author": "Olivia",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
