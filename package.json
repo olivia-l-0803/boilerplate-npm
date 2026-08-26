@@ -12,7 +12,5 @@
   },
 
   "dependencies": {
-	"package-name": "@freecodecamp/example",
-	"express": "1.2.13"
 	}
 }
