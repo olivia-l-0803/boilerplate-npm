@@ -13,6 +13,6 @@
 
   "dependencies": {
 	"package-name": "@freecodecamp/example",
-	"express": "1.1.0"
+	"express": "1.2.13"
 	}
 }
